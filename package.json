@@ -1,6 +1,6 @@
 {
     "name": "gd-javascript",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A wrapper to the General Data API",
     "license": "MIT",
     "homepage": "https://github.com/danielgeneral/gd-javascript",
